@@ -1,4 +1,3 @@
-
 import unittest
 from analytics.analyser import GpaAnalyser
 

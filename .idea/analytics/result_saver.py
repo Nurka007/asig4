@@ -1,6 +1,5 @@
 import json
 
-
 class ResultSaver:
     def __init__(self, result, filepath):
         self.result = result
